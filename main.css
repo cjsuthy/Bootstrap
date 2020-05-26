@@ -26,3 +26,7 @@ border: 1px #3a3a3a solid;
 .navbar-brand {
     color: white;
 }
+
+a {
+    color: #3a3a3a;
+}
