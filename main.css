@@ -1,0 +1,28 @@
+body {
+    background: #1f1f1f;
+    color: #bbb;
+  }
+
+.card {
+    background: #242424;
+   color: #bbb;
+   border: none;
+}
+
+.card,h-100 {
+    padding: 0px;
+    border-radius: 10px;
+}
+
+.list-group-item {
+background: none;
+border: 1px #3a3a3a solid;
+}
+
+.navbar {
+ padding: 20px;
+}
+
+.navbar-brand {
+    color: white;
+}
