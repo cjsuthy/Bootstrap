@@ -1,1 +1,1 @@
-Welcome to Bootstrap Terraspore
+Welcome to Terraspore.com
