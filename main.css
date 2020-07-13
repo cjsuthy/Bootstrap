@@ -15,6 +15,7 @@ body {
     background: #242424;
    color: #bbb;
    border: none;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .card,h-100 {
@@ -36,12 +37,12 @@ a {
 }
 
 iframe{
-    overflow: hidden;
+    overflow: auto;
 }
 
 .card-img-top{
     padding: 10px;
-    opacity: 0.5;
+    opacity: 0.2;
     border-radius: 20px;
 }
 
@@ -54,4 +55,8 @@ iframe{
     -ms-transition: opacity .5s ease-in-out;
     -o-transition: opacity .5s ease-in-out;
     transition: opacity .5s ease-in-out;
+}
+
+#conpin{
+    margin-right: 10px;
 }
